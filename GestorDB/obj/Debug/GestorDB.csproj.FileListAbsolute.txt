@@ -1,0 +1,10 @@
+C:\Users\alang\Documents\Proyectos\GestorDB\GestorDB\bin\Debug\GestorDB.exe.config
+C:\Users\alang\Documents\Proyectos\GestorDB\GestorDB\bin\Debug\GestorDB.exe
+C:\Users\alang\Documents\Proyectos\GestorDB\GestorDB\bin\Debug\GestorDB.pdb
+C:\Users\alang\Documents\Proyectos\GestorDB\GestorDB\obj\Debug\GestorDB.csprojAssemblyReference.cache
+C:\Users\alang\Documents\Proyectos\GestorDB\GestorDB\obj\Debug\GestorDB.Form1.resources
+C:\Users\alang\Documents\Proyectos\GestorDB\GestorDB\obj\Debug\GestorDB.Properties.Resources.resources
+C:\Users\alang\Documents\Proyectos\GestorDB\GestorDB\obj\Debug\GestorDB.csproj.GenerateResource.cache
+C:\Users\alang\Documents\Proyectos\GestorDB\GestorDB\obj\Debug\GestorDB.csproj.CoreCompileInputs.cache
+C:\Users\alang\Documents\Proyectos\GestorDB\GestorDB\obj\Debug\GestorDB.exe
+C:\Users\alang\Documents\Proyectos\GestorDB\GestorDB\obj\Debug\GestorDB.pdb
